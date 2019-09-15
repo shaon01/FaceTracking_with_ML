@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "932711628640",
+    "firebase_url": "https://facetrackingusingml.firebaseio.com",
+    "project_id": "facetrackingusingml",
+    "storage_bucket": "facetrackingusingml.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932711628640:android:e821a1791c4321bac0e805",
+        "android_client_info": {
+          "package_name": "com.example.FaceTrackWithML"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932711628640-g41j48ejhv8df97unp5uua451gk2ik94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh98zW67MxtUI_ZfgYx46ib-hoOYLaJDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932711628640-g41j48ejhv8df97unp5uua451gk2ik94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
